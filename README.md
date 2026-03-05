@@ -1,1 +1,1 @@
-# nbcamp_ch2_codekata
+# 내일 배움 캠프 / Chap.2 / 코드카타 1번
